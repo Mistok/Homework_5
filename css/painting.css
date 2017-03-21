@@ -33,7 +33,7 @@ td{
 	border-right:8px solid black;
 	border-bottom:8px solid black;
 }
-.row_1 td:last-child, .row_2 td:last-child, .row_3 td:last-child, .row_4 td:last-child, .row_5 td:last-child, .row_6 td:last-child, .row_7 td:last-child {
+.row_1 td:last-child, .row_2 td:last-child, .row_3 td:last-child, .row_4 td:last-child, .row_5 td:last-child,  .row_7 td:last-child {
 	border-right:0px;
 }
 .row_2 td, .row_3 td, .row_4 td, .row_5 td, .row_6 td{
